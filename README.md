@@ -1,5 +1,4 @@
 <p align="center">
-  <img src="https://pbs.twimg.com/media/EuvVs4oXAAMbH0-?format=jpg&name=medium" />
   <img src="https://github-readme-stats.vercel.app/api?username=AtaAtasoy&theme=dark&show_icons=true"/>
 </p>
 
